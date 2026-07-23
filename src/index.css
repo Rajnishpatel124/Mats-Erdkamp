@@ -25,6 +25,7 @@
   }
 }
 
+
 @layer utilities {
   .text-display {
     @apply font-display tracking-tight leading-[0.9];

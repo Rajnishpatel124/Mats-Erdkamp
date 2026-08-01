@@ -47,9 +47,7 @@ const PROJECTS: Project[] = [
   },
 ];
 
-// --- Components ---
 
-// --- 3D Components ---
 
 const IntroSwarm = ({ count = 20000 }) => {
   const meshRef = useRef<THREE.InstancedMesh>(null);

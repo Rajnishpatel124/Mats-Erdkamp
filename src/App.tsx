@@ -7,7 +7,7 @@ import { Float, Environment, Center, Text3D } from '@react-three/drei';
 import * as THREE from 'three';
 import { MeshSurfaceSampler } from 'three-stdlib';
 
-// --- Types ---
+
 interface Project {
   id: string;
   title: string;
